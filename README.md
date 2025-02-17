@@ -1,7 +1,7 @@
 #8958
 
 result= 0; //초기화
-count=0;
+count=0;   //초기화
 
 1) ooo = 6
 
