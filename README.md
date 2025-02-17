@@ -1,8 +1,9 @@
 #8958
 
-[공식]
-result= result + count
-count= count + 1
+<공식>
+1. result= result + count
+2. count= count + 1
+
 -------------------------------------------------
 
 result= 0; //초기화
@@ -27,6 +28,7 @@ i=2
 str[i] = 세번째 o
 count= (count=2) + 1 = 3
 result= (result=3) + (count=3) = 6
+
 -------------------------------------------------
 
 2) ooxoo = 6
@@ -59,5 +61,7 @@ count= count + 1 = 1 + 1 = 2
 
 3(oo) + 0(x) + 3(oo) = 6
 
-[visual studio 디버그 과정 되돌아가기]
+-------------------------------------------------
+
++) visual studio 디버그 과정 되돌아가기
 => 이전 줄 누르고 + ctrl shfit f10
