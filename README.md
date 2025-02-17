@@ -25,7 +25,7 @@ count= i+1 = 2 + 1 = 3
 
 공식
 result= result + (i+1)
-count= (i+1) 
+count= (i+1)
 
 2) ooxoo = 6
 
